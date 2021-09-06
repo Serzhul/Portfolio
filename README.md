@@ -2,7 +2,7 @@
 
 ## Overview
 <!-- Write Overview about this project -->
-** 사용 기술 및 특징 **
+**사용 기술 및 특징**
 - CSS (Sass)
 - Vanilla JS
 
