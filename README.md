@@ -1,4 +1,4 @@
-# My Portfolio introduction(Javscript)
+# My Portfolio introduction(Javascript)
 
 [Enter the site](https://serzhul.github.io)
 
